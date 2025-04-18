@@ -1,0 +1,14 @@
+###
+GET http://localhost:8080/fetch/tenant2
+
+###
+POST http://localhost:8080/insert
+
+###
+POST http://localhost:8080/insertjsonb
+
+###
+GET http://localhost:8080/fetchjsonb/tenant1
+
+###
+GET http://localhost:8080/fetchjsonbwithattributes/tenant1
